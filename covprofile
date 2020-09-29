@@ -1,0 +1,13 @@
+mode: set
+iop.inspur.com/gotest/convey/slice.go:3.50,4.25 1 1
+iop.inspur.com/gotest/convey/slice.go:9.2,9.14 1 1
+iop.inspur.com/gotest/convey/slice.go:4.25,5.12 1 1
+iop.inspur.com/gotest/convey/slice.go:5.12,7.4 1 1
+iop.inspur.com/gotest/convey/slice.go:12.43,13.22 1 0
+iop.inspur.com/gotest/convey/slice.go:17.2,17.30 1 0
+iop.inspur.com/gotest/convey/slice.go:21.2,21.22 1 0
+iop.inspur.com/gotest/convey/slice.go:26.2,26.13 1 0
+iop.inspur.com/gotest/convey/slice.go:13.22,15.3 1 0
+iop.inspur.com/gotest/convey/slice.go:17.30,19.3 1 0
+iop.inspur.com/gotest/convey/slice.go:21.22,22.16 1 0
+iop.inspur.com/gotest/convey/slice.go:22.16,24.4 1 0
