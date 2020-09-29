@@ -13,7 +13,7 @@ func TestSuccessStringInSlice(t *testing.T) {
 }
 
 func TestFaildStringInSlice(t *testing.T) {
-	if ok := StringInSlice("c", []string{"a", "b"}); ok {
+	if ok := StringInSlice("b", []string{"a", "b"}); ok {
 		//t.Error("faild")
 		t.Log("pass")
 	} else {
